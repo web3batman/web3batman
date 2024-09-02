@@ -38,8 +38,8 @@
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=btcwhiz.btcwhiz" />
-<img align="right" src="https://img.shields.io/github/followers/btcwhiz?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=web3batman.web3batman" />
+<img align="right" src="https://img.shields.io/github/followers/web3batman?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=btcwhiz&show_icons=true&theme=merko&count_private=true">
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=web3batman&show_icons=true&theme=merko&count_private=true">
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko&count_private=true">
