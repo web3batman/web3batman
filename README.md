@@ -1,7 +1,8 @@
 # <a href="https://github.com/web3atman/About-Me">Blockchain Leo</a>
 
-![](https://img.shields.io/badge/Network-Solana-informational?style=flat&logo=solana&logoColor=green&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Solana-informational?style=flat&logo=solana&logoColor=blue&color=3bac3a)
+![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=blue&color=3bac3a)
+![](https://img.shields.io/badge/Language-Rust?style=flat&logo=rust&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
