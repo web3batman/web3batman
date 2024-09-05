@@ -1,4 +1,5 @@
 # <a href="https://github.com/web3atman/About-Me">Blockchain Leo</a>
+
 ![](https://img.shields.io/badge/Network-Solana-informational?style=flat&logo=solana&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Rust-information?style=flat&logo=rust&logoColor=white&color=3bac3a)
@@ -40,5 +41,4 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=web3batman.web3batman" />
 <img align="right" src="https://img.shields.io/github/followers/web3batman?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=web3batman&show_icons=true&theme=merko&count_private=true">
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web3batman&layout=compact&theme=merko&count_private=true">
+<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web3batman&layout=compact&theme=merko&count_private=true">
